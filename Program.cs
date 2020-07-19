@@ -5,7 +5,7 @@ using System;
 
 namespace QuadraticEquation
 {
-    class Program
+    class Equation
     {
         static void Main(string[] args) 
         {
